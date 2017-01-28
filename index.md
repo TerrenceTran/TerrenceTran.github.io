@@ -1,6 +1,6 @@
 # DPEA 2017 Mechatronics Projects
 
-## Console 12: Waves In All Dimensions
+## Console 12: Waves In All Dimensions [here](https://terrencetran.github.io/Console13)
 
 **Date:** 13 January 2017 Friday
 
