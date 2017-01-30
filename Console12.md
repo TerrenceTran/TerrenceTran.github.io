@@ -31,5 +31,3 @@ ___
 **Challenges:** 
 
 **Moving Forward:** 
-![cat](test.jpg)
-![bunnyTest](https://scontent.xx.fbcdn.net/v/t1.0-9/13435408_10154879684039409_459206494620348520_n.jpg?oh=0c7a5c171f97a0d0ff61cb82fd49628b&oe=5905B427)
