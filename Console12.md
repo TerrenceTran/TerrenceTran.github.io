@@ -1,5 +1,8 @@
-## Console 12: Waves In All Dimensions [Console13](https://terrencetran.github.io/Console13)
-[Console12](https://terrencetran.github.io/Console12)
+## Console 12 Project Page
+
+check out the main page [here](https://TerrenceTran.github.io)
+
+## Console 12: Waves In All Dimensions 
 
 **Date:** 13 January 2017 Friday
 
