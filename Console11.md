@@ -1,8 +1,12 @@
 ## Console 11 Project Page: Static Magnetism
-### Subprojects:
-   * [Vertical Maze LED Ring]()
 
-check out the main page [here](https://TerrenceTran.github.io)
+### Subprojects:
+
+   * [Vertical Maze LED Ring]() **DONE**
+
+Check out the main page [here](https://TerrenceTran.github.io)
+
+___
 
 **Date:** 30 January 2017 Monday
 
