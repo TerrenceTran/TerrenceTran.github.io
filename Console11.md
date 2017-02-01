@@ -59,7 +59,7 @@ ___
 
    | This method has a host of benefits: Its faster to cut the manufactuer the pieces, its sturdy, and tried and true. However, some notiable downsides were that it has multiple parts and is not super great for creating complex parts with varying features. As such, I decided to go with the 3D printed part which has increased manufacteuring time with the upshot of zero assembly time and complexity. 
    
-I CAD'ed up a model of the LED ring holder to fairly tight tolerance. The ring would be friction fit and/or super glued to the holder and the holder would be pressfit onto the permanent magnet. I referenced this (page)[http://makezine.com/2015/07/22/tips-3d-printing-press-fit-parts/] and learned it would be easier to rely on plastics high pliability to get the pressfit I wanted. The described octagonal press fit sacrifies strength for a higher amount of tolerance, and is perfectly applicable in this implementation.
+I CAD'ed up a model of the LED ring holder to fairly tight tolerance. The ring would be friction fit and/or super glued to the holder and the holder would be pressfit onto the permanent magnet. I referenced this [page](http://makezine.com/2015/07/22/tips-3d-printing-press-fit-parts/) and learned it would be easier to rely on plastics high pliability to get the pressfit I wanted. The described octagonal press fit sacrifies strength for a higher amount of tolerance, and is perfectly applicable in this implementation.
 
 
 
