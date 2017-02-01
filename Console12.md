@@ -119,7 +119,7 @@ void loop() {
 }
 ```
 
-   | To use this device, you need to connect to it first with ```Wire.begin()``` and ```Wire.beginTransmission```. Then there are two steps to writing the actual value desired. The first *Write*, ```Wire.write((uint8_t)WRPOT0)``` specifies which internal potentiometer to adjust. The scond *Write*, ```Wire.write((uint8_t)i)``` write the value as a byte, with acceptable values ranging from 0-64. 
+   | To use this device, you need to connect to it first with `<Wire.begin()>` and `<Wire.beginTransmission>`. Then there are two steps to writing the actual value desired. The first *Write*, `<Wire.write((uint8_t)WRPOT0)>` specifies which internal potentiometer to adjust. The scond *Write*, `<Wire.write((uint8_t)i)>` write the value as a byte, with acceptable values ranging from 0-64. 
    
 The pot was tested fine, and the circuit was bread boarded and tested. Everything checks out. Everything was installed onto a permanent protoboard and soldered up. I put the option of both coupled and decoupled outputs, just incase the need arose. 
 
@@ -151,7 +151,7 @@ ___
    
 **ADD VIDEO HYPERLINK**
 
- ### Kuntz Tube Volume Attenuation - **DONE**
+### Kuntz Tube Volume Attenuation - **DONE**
 
 ___
 
