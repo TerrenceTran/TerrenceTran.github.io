@@ -45,6 +45,7 @@ void loop() {
 
 }
 ```
+
    | The code is straight forward and follows the library examples closely with a few tweaks. Installation was fairly easy due to the ring's inbuilt resistors. Tomorrow I'm going to hand off the ring and this code to a student and give him free reign on what he thinks should be done. 
 
 **Moving Forward:** The plan is to 3D print a pressfit mount to mate the LED rings and the permanent magnets. I was concerned that the heat created by these LED's migh cause deformation in the PLA plastic mount. I'll run the LEDs for a few hours and check thermals occasionally to be sure. 
