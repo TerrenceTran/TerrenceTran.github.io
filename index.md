@@ -8,12 +8,14 @@
    
 ___
 
-### [Image Repo](https://terrencetran.github.io/imageRepo)
+![Profile Pic](https://scontent.xx.fbcdn.net/v/t1.0-9/13466181_1201866233165391_1053054156639927898_n.jpg?oh=6560185a9e2083ea203ee18a590dd9f0&oe=594004E2)
 
 **About Me:** Its weird, I never thought I would have to write one of these *about me* things; but here goes nothing.
 I attended UCSB and recieved my B.S. in Electrical Engineering as a member of the Class of 2016. My specialty is in power elctronics and has been shifting more and more toward hardware programing. Although those are my strongest fields, I pride myself in my diverse interest in building. Even before my college experience, I'va always been an avid hobbiest and loved building whole systems from the ground up. My interests lead me to many rare opportunities throughout college, one of which being the UCSB Hyperloop team. It was my privelege to be a member of the 2016 team for my senior project. My primary responsibilty was designing and constructing the power elctronics systems for the pod, and I also had a part in designing the braking and propulsion sub-systems. I hope to retroactively log those experiences and reflect on what I learned then.
 
 At the moment I am a Mechatronics Staff Engineer at DPEA and have the honor of instructing the seniors of the porgram in the ways of programing. This is my log of my past, my future, and all the misadventures in between. 
+
+### [Image Repo](https://terrencetran.github.io/imageRepo)
 
 ///////////////////////////////////////      Test Area     ///////////////////////////////////////////
 
