@@ -17,6 +17,13 @@ ___
 3. Item 3
    * Item 3a
    * Item 3b
+   
+HOW ABOUT HERE HELLO WORLD IM TESTING FORMATING NEXT TO IMAGES! HOPEFULLY THIS WORKS. I SEE NO REASON WHY THIS SHOULDN'T MUHAHAHAHAH HELLO WORLD I AM HERE!
+![Original Circuit Design](https://lh3.googleusercontent.com/yrGs3dPKhOau1yISFIUUBmCXUfzhuavTw5f2iEmavd3ihlRGEJyl-YrpEEz5sKLThQpcNr9mVTurKZojAszPZ6tRuNORf60pU7PPInVRmx_fTFwAktFcomW_4-ttfxqJyV-1ffhIhkclypfx9wH_AI_4uwnHhaM2xnDwr0FkzeLh_DOhzTygpo2hcO4YrdZqDpiSNiFwPYMp0X1rU8tcMNlb4zl1urHG-qjfMB2DmCTDro5R2zFSxjB_E0WBxgmvotcV-Z4k_56FWgVX80wBOTnoh9jiBKPaq-ZxYwYSZcnp6cfHf9MjNrR71gOBtL5czLm8qxQv0pnln-XD88ZwWtc-XnYNqEvDWePi8uCeVUzTKpXRYseblnFazFhyGZW4fmhabGsdVI_rzsUq_xpWqt113cFHKmGapcXuEyxhoiSCtk-K-MZ1qmg8MWGn95GY7_7iqXGggxOgL1-RjKksiKMcJ390rFdZpfCdzvtLOLX2mmcW3f17MpuLZcd3pYNduRGn1gu_yqRvuOUmUKDJ9hlHiWF0tIcER1z-JoiPL918XLImMvdZmhWzyp-3aBIPzURJ8t4R-RlfKl9y0DRDzGJBsEy1WKpS4XYF2zPzu7AvSlAQ_wSKTvylO13xjwMdYnH4_wXLXn4_6zKGciK1QPOEqygzXz2IOtc9DhdUcQ=w100-h150-no)
+![Original Circuit Design](https://lh3.googleusercontent.com/yrGs3dPKhOau1yISFIUUBmCXUfzhuavTw5f2iEmavd3ihlRGEJyl-YrpEEz5sKLThQpcNr9mVTurKZojAszPZ6tRuNORf60pU7PPInVRmx_fTFwAktFcomW_4-ttfxqJyV-1ffhIhkclypfx9wH_AI_4uwnHhaM2xnDwr0FkzeLh_DOhzTygpo2hcO4YrdZqDpiSNiFwPYMp0X1rU8tcMNlb4zl1urHG-qjfMB2DmCTDro5R2zFSxjB_E0WBxgmvotcV-Z4k_56FWgVX80wBOTnoh9jiBKPaq-ZxYwYSZcnp6cfHf9MjNrR71gOBtL5czLm8qxQv0pnln-XD88ZwWtc-XnYNqEvDWePi8uCeVUzTKpXRYseblnFazFhyGZW4fmhabGsdVI_rzsUq_xpWqt113cFHKmGapcXuEyxhoiSCtk-K-MZ1qmg8MWGn95GY7_7iqXGggxOgL1-RjKksiKMcJ390rFdZpfCdzvtLOLX2mmcW3f17MpuLZcd3pYNduRGn1gu_yqRvuOUmUKDJ9hlHiWF0tIcER1z-JoiPL918XLImMvdZmhWzyp-3aBIPzURJ8t4R-RlfKl9y0DRDzGJBsEy1WKpS4XYF2zPzu7AvSlAQ_wSKTvylO13xjwMdYnH4_wXLXn4_6zKGciK1QPOEqygzXz2IOtc9DhdUcQ=w100-h150-no)
+HELLO WORLD IM TESTING FORMATING NEXT TO IMAGES! HOPEFULLY THIS WORKS. I SEE NO REASON WHY THIS SHOULDN'T MUHAHAHAHAH HELLO WORLD I AM HERE!
+
+HELLO WORLD2
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
