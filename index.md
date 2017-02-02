@@ -1,14 +1,19 @@
 # DPEA 2017 Mechatronics Projects
 
-## Project Archive
+## Career Project Archive
 
-   * [Console11](https://terrencetran.github.io/Console11)
-   * [Console12](https://terrencetran.github.io/Console12)
-   * [Console13](https://terrencetran.github.io/Console13)
+   * [Console11: Static Magnetism](https://terrencetran.github.io/Console11)
+   * [Console12: Waves in All Dimensions](https://terrencetran.github.io/Console12)
+   * [Console13: Bernoulli's Laws](https://terrencetran.github.io/Console13)
    
 ___
 
 ### [Image Repo](https://terrencetran.github.io/imageRepo)
+
+**About Me:** Its weird, I never thought I would have to write one of these *about me* things; but here goes nothing.
+I attended UCSB and recieved my B.S. in Electrical Engineering as a member of the Class of 2016. My specialty is in power elctronics and has been shifting more and more toward hardware programing. Although those are my strongest fields, I pride myself in my diverse interest in building. Even before my college experience, I'va always been an avid hobbiest and loved building whole systems from the ground up. My interests lead me to many rare opportunities throughout college, one of which being the UCSB Hyperloop team. It was my privelege to be a member of the 2016 team for my senior project. My primary responsibilty was designing and constructing the power elctronics systems for the pod, and I also had a part in designing the braking and propulsion sub-systems. I hope to retroactively log those experiences and reflect on what I learned then.
+
+At the moment I am a Mechatronics Staff Engineer at DPEA and have the honor of instructing the seniors of the porgram in the ways of programing. This is my log of my past, my future, and all the misadventures in between. 
 
 ///////////////////////////////////////      Test Area     ///////////////////////////////////////////
 
@@ -18,13 +23,6 @@ ___
    * Item 3a
    * Item 3b
    
-HOW ABOUT HERE HELLO WORLD IM TESTING FORMATING NEXT TO IMAGES! HOPEFULLY THIS WORKS. I SEE NO REASON WHY THIS SHOULDN'T MUHAHAHAHAH HELLO WORLD I AM HERE!
-![Original Circuit Design](https://lh3.googleusercontent.com/yrGs3dPKhOau1yISFIUUBmCXUfzhuavTw5f2iEmavd3ihlRGEJyl-YrpEEz5sKLThQpcNr9mVTurKZojAszPZ6tRuNORf60pU7PPInVRmx_fTFwAktFcomW_4-ttfxqJyV-1ffhIhkclypfx9wH_AI_4uwnHhaM2xnDwr0FkzeLh_DOhzTygpo2hcO4YrdZqDpiSNiFwPYMp0X1rU8tcMNlb4zl1urHG-qjfMB2DmCTDro5R2zFSxjB_E0WBxgmvotcV-Z4k_56FWgVX80wBOTnoh9jiBKPaq-ZxYwYSZcnp6cfHf9MjNrR71gOBtL5czLm8qxQv0pnln-XD88ZwWtc-XnYNqEvDWePi8uCeVUzTKpXRYseblnFazFhyGZW4fmhabGsdVI_rzsUq_xpWqt113cFHKmGapcXuEyxhoiSCtk-K-MZ1qmg8MWGn95GY7_7iqXGggxOgL1-RjKksiKMcJ390rFdZpfCdzvtLOLX2mmcW3f17MpuLZcd3pYNduRGn1gu_yqRvuOUmUKDJ9hlHiWF0tIcER1z-JoiPL918XLImMvdZmhWzyp-3aBIPzURJ8t4R-RlfKl9y0DRDzGJBsEy1WKpS4XYF2zPzu7AvSlAQ_wSKTvylO13xjwMdYnH4_wXLXn4_6zKGciK1QPOEqygzXz2IOtc9DhdUcQ=w100-h150-no)
-![Original Circuit Design](https://lh3.googleusercontent.com/yrGs3dPKhOau1yISFIUUBmCXUfzhuavTw5f2iEmavd3ihlRGEJyl-YrpEEz5sKLThQpcNr9mVTurKZojAszPZ6tRuNORf60pU7PPInVRmx_fTFwAktFcomW_4-ttfxqJyV-1ffhIhkclypfx9wH_AI_4uwnHhaM2xnDwr0FkzeLh_DOhzTygpo2hcO4YrdZqDpiSNiFwPYMp0X1rU8tcMNlb4zl1urHG-qjfMB2DmCTDro5R2zFSxjB_E0WBxgmvotcV-Z4k_56FWgVX80wBOTnoh9jiBKPaq-ZxYwYSZcnp6cfHf9MjNrR71gOBtL5czLm8qxQv0pnln-XD88ZwWtc-XnYNqEvDWePi8uCeVUzTKpXRYseblnFazFhyGZW4fmhabGsdVI_rzsUq_xpWqt113cFHKmGapcXuEyxhoiSCtk-K-MZ1qmg8MWGn95GY7_7iqXGggxOgL1-RjKksiKMcJ390rFdZpfCdzvtLOLX2mmcW3f17MpuLZcd3pYNduRGn1gu_yqRvuOUmUKDJ9hlHiWF0tIcER1z-JoiPL918XLImMvdZmhWzyp-3aBIPzURJ8t4R-RlfKl9y0DRDzGJBsEy1WKpS4XYF2zPzu7AvSlAQ_wSKTvylO13xjwMdYnH4_wXLXn4_6zKGciK1QPOEqygzXz2IOtc9DhdUcQ=w100-h150-no)
-HELLO WORLD IM TESTING FORMATING NEXT TO IMAGES! HOPEFULLY THIS WORKS. I SEE NO REASON WHY THIS SHOULDN'T MUHAHAHAHAH HELLO WORLD I AM HERE!
-
-HELLO WORLD2
-
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
 ## Welcome to GitHub Pages
