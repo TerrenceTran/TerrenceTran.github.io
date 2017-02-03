@@ -5,7 +5,7 @@
    * [Console11: Static Magnetism](https://terrencetran.github.io/Console11)
    * [Console12: Waves in All Dimensions](https://terrencetran.github.io/Console12)
    * [Console13: Bernoulli's Laws](https://terrencetran.github.io/Console13)
-   
+   * [Miscellaneous Work Projects](https://terrencetran.github.io/WorkMISC)   
 ___
 
 ![Profile Pic](https://scontent.xx.fbcdn.net/v/t1.0-9/13466181_1201866233165391_1053054156639927898_n.jpg?oh=6560185a9e2083ea203ee18a590dd9f0&oe=594004E2)
